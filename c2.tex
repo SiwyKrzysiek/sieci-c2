@@ -1,10 +1,18 @@
-\documentclass{article}
+\documentclass{mwart}
 
 \usepackage{polski} % Pozwala na użycie polskiego. Ustawia między innymi fontenc na T1
 \usepackage[utf8]{inputenc} % Informuje o kodowaniu
+\usepackage{xcolor} % Definicje kolorów
 
 \usepackage{graphicx}
 \graphicspath{ {./Obrazy/} }
+
+\usepackage{listings} % Listingi kodu
+\lstset{basicstyle=\ttfamily,
+  showstringspaces=false,
+  commentstyle=\color{gray},
+  keywordstyle=\color{blue}
+}
 
 \usepackage{textcomp} % Znaki specjalne takie jak ~
 
@@ -28,10 +36,11 @@ Celem pierwszej części zajęć c2 było odwzorowanie schematu sieci na stacji 
 \end{figure}
 
 \section{Zbadanie lokalnych interfejsów}
-Dzięki poleceniu \texttt{ifconfig} można uzyskać informacje o interfejsach gospodarza. Uzyskanie w tens sposób nazwy interfejsów zostały naniesione na schemat \ref{fig:schemat}.
+Dzięki poleceniu \texttt{ifconfig} można uzyskać informacje o interfejsach gospodarza. Uzyskanie w tens sposób nazwy interfejsów zostały naniesione na schemat %\ref{fig:schemat}.
 
 \section{Kreacja wirtualnych maszyn}
 W celu automatyzacji tworzenia maszyn wirtualnych napisałem prosty skrypt konfiguracyjny.
 
+\lstinputlisting[language=bash]{./Skrypty/c2}
 
 \end{document}
