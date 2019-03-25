@@ -1,0 +1,23 @@
+#!/bin/sh
+
+#Lista maszyn do utworzenia
+machinesToCreate="Vm1 Vm2"
+
+for VM in $machinesToCreate; do
+    VBoxManage createvm --name $VM --ostype "Debian_64" --register
+
+    #Ustawienei kolejności bootowania
+    VBoxManage modifyvm $VM --boot1 net --boot2 disk --boot3 dvd --boot4 none
+
+    #Ustawnienie ramu i rdzeni procesora
+    VBoxManage modifyvm $VM --memory 1024 --vram 128 --cpus 2
+
+    #Ustawienie kontrolera sieci
+    VBoxManage modifyvm $VM --nic1 bridged --bridgeadapter1 eno2
+
+    #Dodanie do sieci wewnetrznej
+    VBoxManage modifyvm $VM --nic2 intnet
+    #Nadanie nazwy sieci wewnętrznej
+    #VBoxManage modifyvm $VM --intnet2 "siec1"
+
+done
