@@ -1,0 +1,385 @@
+Script started on pon, 1 kwi 2019, 16:54:08
+[1m[7m%[27m[1m[0m                                                                                ]2;dabrowk1@s9: ~]1;~[0m[27m[24m[J[01;32m➜  [36m~[00m [K[?1h=[?2004hlls /pub[1m/[0m[0m/l Li
+[J[01;34mLIB[0m/    [J[01;34mLinux[0m/[J[A[0m[27m[24m[5Cls /pub/Li[KIB[1m/[0m
+[J[7mLIB/  [0m  [J[01;34mLinux[0m/[J[A[0m[27m[24m[5Cls /pub/LIB[1m/[0m[K
+[7mLIB/  [0m  [7mLIB/  [0m  [A[0m[27m[24m[5Cls /pub/LIB[1m/[0m[Kin[0mux[1m/[0m
+[8C[7mLinux/[0m[01;34mLIB[0m/    [A[0m[27m[24m[5Cls /pub/Linux[1m/[0m[K
+[J[A[19C[0m/Ub
+[J[J[01;34mubilinux[0m/  [J[01;34mUbuntu[0m/  [J[A[0m[27m[24m[5Cls /pub/Linux/Ub[KZ
+[J[A[22C 
+[J[J[01;34mubilinux[0m/  [J[01;34mUbuntu[0m/  [J[A[0m[27m[24m[5Cls /pub/Linux/Ub[Kubilinux[1m/[0m
+[J[7mubilinux/[0m  [J[01;34mUbuntu[0m/  [J[A[0m[27m[24m[5Cls /pub/Linux/ubilinux[1m/[0m[K
+[7mubilinux/[0m  [7mubilinux/[0m  [A[0m[27m[24m[5Cls /pub/Linux/ubilinux[1m/[0m[K[9DUbuntu[1m/[0m [0m 
+[11C[7mUbuntu/  [0m[01;34mubilinux[0m/  [A[0m[27m[24m[5Cls /pub/Linux/Ubuntu[1m/[0m[K
+[J[A[26C[0m/zetis[1m/[0m[0m/
+[J[0mapt-go-fast                   patch-etc-apt-sources.list-1
+apt-repo-create               patch-etc-apt-sources.list-2
+[01;31mbash_4.3-14ubuntu1_amd64.deb[0m  [01;32mrc.local[0m*                   
+[01;34mbin[0m/                          [01;32mRC.local[0m*                   
+[01;34mbuild[0m/                        rc.local.log                
+clearlinux                    [01;32mremaster[0m*                   
+[01;34mconfig[0m/                       remaster.log                
+[01;34mdiskless[0m/                     remaster.log-2              
+Dockerfile                    remaster.log-new            
+DOC-stud-home                 remaster.log-o              
+DOC-systemd                   remaster.log-oo             
+DOC-upgrade                   remaster.log-ooo            
+ENV-info                      remaster-o                  
+gen-nfs-LOG                   run-snappy-vagrant          
+[01;32minitrd.sh[0m*                    run-snappy-vagrant.log      
+[01;34minstall[0m/                      [01;32msnappy-kvm[0m*                 
+[01;32minstallms-sql-server[0m*         [01;32msnappy-vagrant[0m*             
+kernel-compile                snappy-vagrant.log          
+[01;34mks[0m/                           snappy-vmware               
+mk-iscsi-boot                 [01;34mstud[0m/                       
+[01;32mmk-persistent.sh[0m*             sysinstall-zfs              
+[01;32mmount-smb[0m*                    [01;34mtest[0m/                       
+[Jmount-smb.log                 [JTODO                        [J
+[01;32mmount-zetis[0m*                  [J[01;32mubuntu-install[0m*             [J
+[01;32moem-config-remaster[0m*          [Jubuntu-install.log-15.04    [J
+[01;34mOLD[0m/                          [J[01;31muck_2.4.7.orig.tar.gz[0m       [J
+overlayfs-clone               [J[01;32muser-add[0m*                   [J
+patch-etc-apt-sources.list    [J[01;32mvnc-stream[0m*                 [J
+[0m[27m[24m[J[01;32m➜  [36m~[00m ls /pub/Linux/Ubuntu/zetis/[Kin
+[J[01;32minitrd.sh[0m*             [J[01;34minstall[0m/               [J[01;32minstallms-sql-server[0m*[J[A[0m[27m[24m[5Cls /pub/Linux/Ubuntu/zetis/in[Kitrd.sh
+[J[7minitrd.sh*           [0m  [J[01;34minstall[0m/               [J[01;32minstallms-sql-server[0m*[J[A[0m[27m[24m[5Cls /pub/Linux/Ubuntu/zetis/initrd.sh[K
+[7minitrd.sh*           [0m  [7minitrd.sh*           [0m  [A[0m[27m[24m[5Cls /pub/Linux/Ubuntu/zetis/initrd.sh[Kstall[1m/[0m 
+[23C[7minstall/             [0m  [01;32minitrd.sh[0m*             [A[0m[27m[24m[5Cls /pub/Linux/Ubuntu/zetis/install[1m/[0m[K
+[J[A[40C[0m/b
+[J[0mbackup-tools                    bigbluebutton                 
+[01;32mbase[0m*                           boot-repair                   
+[01;31mbash_4.3-14ubuntu1_amd64.deb[0m    bpf                           
+[J[01;31mbash_4.4.18-2ubuntu3_amd64.deb[0m  [J                              [4A[0m[27m[24m[5Cls /pub/Linux/Ubuntu/zetis/install/b[Kv  v
+[J[01;32mvbox[0m*                   virt-manager.log        [01;32mvmware-utils[0m*         
+vbox.log                [01;32mvlc[0m*                    vmware-utils.log-15.04
+vbox.log-16.04          vm-debootstrap          vmware-utils.log-15.10
+vbox.log-n              [01;32mvm-tools[0m*               vnc                   
+vbox.log-o              vm-tools.log            vnc.log               
+vbox.log-OK-ubu         [01;32mvmware-player[0m*          [01;32mvncviewer[0m*            
+vbox-tools              vmwaretools             vsc                   
+vbox-tools.log          [01;32mvmware-tools[0m*           [01;32mvscode[0m*               
+[01;32mvim[0m*                    vmware-tools.log        vs-code               
+[01;32mvinagre[0m*                vmware-tools.log-o      vscode.log-s1         
+[Jvinagre.log             [Jvmware-tools-src        [J                      [11A[0m[27m[24m[5Cls /pub/Linux/Ubuntu/zetis/install/v[Ka
+[J[A[42Cjava    vbox/pub/Linux/Ubuntu/zetis/install/vbox [K/pub/Linux/Ubuntu/zetis/install/vbox                                  / [K[A[79C[K[1B[K[A[79C                                                                       l  ==[7m^[[27m[200~/pub/Linux/Ubuntu/zetis/install/vbox~[1C [44D[1C=[P[P[41C  [43D=[P[40C [41D=0[P[38C [40D[1C[P[37C [39D=[P[37C [38D=[P[36C [37D[P[36C [37Dc/pub/Linux/Ubuntu/zetis/install/vbox[36Dco/pub/Linux/Ubuntu/zetis/install/vbox[36Dd/pub/Linux/Ubuntu/zetis/install/vbox[36De/pub/Linux/Ubuntu/zetis/install/vbox[36D /pub/Linux/Ubuntu/zetis/install/vbox[36D[?1l>[?2004l[1B[J]2;code /pub/Linux/Ubuntu/zetis/install/vbox]1;code[1m[7m%[27m[1m[0m                                                                                ]2;dabrowk1@s9: ~]1;~[0m[27m[24m[J[01;32m➜  [36m~[00m [K[?1h=[?2004hmman env[?1l>[?2004l
+]2;man env]1;man[?1049h[?1h=ENV(1)                       Polecenia użytkownika                      ENV(1)[m
+[m
+[1mNAZWA[0m[m
+       env - uruchamia program w zmienionym środowisku[m
+[m
+[1mSKŁADNIA[0m[m
+       [1menv[0m [[4mOPCJA[24m]... [[1m-[0m] [[4mNAZWA[24m[1m=[0m[4mWARTOŚĆ[24m]... [[4mPOLECENIE[24m [[4mARG[24m]...][m
+[m
+[1mOPIS[0m[m
+       Ustawia   każdą  zmienną  środowiskową  [4mNAZWA[24m  na  [4mWARTOŚĆ[24m  i  wykonuje[m
+       [4mPOLECENIE[24m.[m
+[m
+       Argumenty,  które  są  obowiązkowe  dla  długich  opcji,   są   również[m
+       obowiązkowe dla krótkich.[m
+[m
+       [1m-i[0m, [1m--ignore-environment[0m[m
+              zaczyna z pustym środowiskiem[m
+[m
+       [1m-0[0m, [1m--null[0m[m
+              kończy każdy wiersz bajtem NUL, zamiast znakiem nowego wiersza[m
+[m
+       [1m-u[0m, [1m--unset[0m=[4mNAZWA[24m[m
+              usuwa zmienną [4mNAZWA[24m ze środowiska[m
+[7m Manual page env(1) line 1 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page env(1) line 2 (press h for help or q to quit)[27m[K[K       [1m--help[0m wyświetla ten tekst i kończy pracę[m
+[7m Manual page env(1) line 3 (press h for help or q to quit)[27m[K[K[HM[m
+[24;1H[K[7m Manual page env(1) line 2 (press h for help or q to quit)[27m[K[K[HMENV(1)                       Polecenia użytkownika                      ENV(1)[m
+[24;1H[K[7m Manual page env(1) line 1 (press h for help or q to quit)[27m[K[K[K[7m Manual page env(1) line 1 (press h for help or q to quit)[27m[K[K[K[7m Manual page env(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[1m[7m%[27m[1m[0m                                                                                ]2;dabrowk1@s9: ~]1;~[0m[27m[24m[J[01;32m➜  [36m~[00m [K[?1h=[?2004hiinstall_vb[1m [0m[0m [?1l>[?2004l
+]2;install_vb]1;install_vb0% [Pracuje]            Stary:1 http://archive.ubuntu.com/ubuntu xenial InRelease
+0% [Oczekiwanie na nagłówki]                              Pobieranie:2 http://security.ubuntu.com/ubuntu xenial-security InRelease [109 kB]
+0% [Oczekiwanie na nagłówki] [2 InRelease 5161 B/109 kB 5%]0% [1 InRelease gpgv 247 kB] [Oczekiwanie na nagłówki] [2 InRelease 5161 B/10                                                                               Pobieranie:3 http://archive.ubuntu.com/ubuntu xenial-updates InRelease [109 kB]
+0% [1 InRelease gpgv 247 kB] [3 InRelease 2281 B/109 kB 2%] [2 InRelease 13,4 k                                                                               0% [3 InRelease 13,9 kB/109 kB 13%] [2 InRelease 40,7 kB/109 kB 37%]                                                                    0% [3 InRelease 52,5 kB/109 kB 48%]0% [2 InRelease gpgv 109 kB] [3 InRelease 52,5 kB/109 kB 48%]                                                             0% [2 InRelease gpgv 109 kB]                            0% [Pracuje]0% [3 InRelease gpgv 109 kB]                            0% [Pracuje]            Pobieranie:4 http://archive.ubuntu.com/ubuntu xenial-updates/universe amd64 Packages [743 kB]
+0% [4 Packages 3655 B/743 kB 0%]                                Stary:5 https://packages.microsoft.com/repos/vscode stable InRelease
+55% [4 Packages 255 kB/743 kB 34%]55% [5 InRelease gpgv 3182 B] [4 Packages 255 kB/743 kB 34%]                                                            99% [4 Packages 738 kB/743 kB 99%]                                  99% [Pracuje]99% [4 Packages store 0 B] [Oczekiwanie na nagłówki]                                                      Pobieranie:6 http://archive.ubuntu.com/ubuntu xenial-updates/universe Translation-en [308 kB]
+53% [4 Packages store 0 B] [6 Translation-en 4943 B/308 kB 2%]                                                              99% [4 Packages store 0 B]                          100% [Pracuje]100% [6 Translation-en store 0 B]                                 100% [Pracuje]              Pobrano 1270 kB w 0s (2125 kB/s)
+Czytanie list pakietów... 0%Czytanie list pakietów... 0%Czytanie list pakietów... 1%Czytanie list pakietów... 6%Czytanie list pakietów... 6%Czytanie list pakietów... 7%Czytanie list pakietów... 7%Czytanie list pakietów... 10%Czytanie list pakietów... 10%Czytanie list pakietów... 10%Czytanie list pakietów... 10%Czytanie list pakietów... 10%Czytanie list pakietów... 10%Czytanie list pakietów... 10%Czytanie list pakietów... 10%Czytanie list pakietów... 46%Czytanie list pakietów... 46%Czytanie list pakietów... 48%Czytanie list pakietów... 48%Czytanie list pakietów... 68%Czytanie list pakietów... 68%Czytanie list pakietów... 69%Czytanie list pakietów... 69%Czytanie list pakietów... 69%Czytanie list pakietów... 69%Czytanie list pakietów... 69%Czytanie list pakietów... 69%Czytanie list pakietów... 73%Czytanie list pakietów... 73%Czytanie list pakietów... 77%Czytanie list pakietów... 77%Czytanie list pakietów... 77%Czytanie list pakietów... 77%Czytanie list pakietów... 77%Czytanie list pakietów... 77%Czytanie list pakietów... 79%Czytanie list pakietów... 79%Czytanie list pakietów... 81%Czytanie list pakietów... 81%Czytanie list pakietów... 81%Czytanie list pakietów... 81%Czytanie list pakietów... 81%Czytanie list pakietów... 81%Czytanie list pakietów... 86%Czytanie list pakietów... 86%Czytanie list pakietów... 88%Czytanie list pakietów... 91%Czytanie list pakietów... 91%Czytanie list pakietów... 91%Czytanie list pakietów... 91%Czytanie list pakietów... 91%Czytanie list pakietów... 91%Czytanie list pakietów... 95%Czytanie list pakietów... 95%Czytanie list pakietów... 97%Czytanie list pakietów... 97%Czytanie list pakietów... 97%Czytanie list pakietów... 97%Czytanie list pakietów... 97%Czytanie list pakietów... 97%Czytanie list pakietów... 98%Czytanie list pakietów... 98%Czytanie list pakietów... Gotowe
+Czytanie list pakietów... 0%Czytanie list pakietów... 100%Czytanie list pakietów... Gotowe
+Budowanie drzewa zależności... 0%Budowanie drzewa zależności... 0%Budowanie drzewa zależności... 50%Budowanie drzewa zależności... 50%Budowanie drzewa zależności       
+Odczyt informacji o stanie... 0%Odczyt informacji o stanie... 0%Odczyt informacji o stanie... Gotowe
+The following additional packages will be installed:
+  dkms libgsoap8 libqt5x11extras5 libvncserver1 virtualbox-dkms virtualbox-qt
+Sugerowane pakiety:
+  vde2 virtualbox-guest-additions-iso
+Zostaną zainstalowane następujące NOWE pakiety:
+  dkms libgsoap8 libqt5x11extras5 libvncserver1 virtualbox virtualbox-dkms
+  virtualbox-ext-pack virtualbox-qt
+0 aktualizowanych, 8 nowo instalowanych, 0 usuwanych i 985 nieaktualizowanych.
+Konieczne pobranie 24,4 MB archiwów.
+Po tej operacji zostanie dodatkowo użyte 107 MB miejsca na dysku.
+Kontynuować? [T/n] n
+Przerwane.
+[1m[7m%[27m[1m[0m                                                                                ]2;dabrowk1@s9: ~]1;~[0m[27m[24m[J[01;31m➜  [36m~[00m [K[?1h=[?2004hinstall_vb[?1l>[?2004l
+]2;install_vb]1;install_vb0% [Pracuje]            Stary:1 http://archive.ubuntu.com/ubuntu xenial InRelease
+0% [Oczekiwanie na nagłówki]                              Pobieranie:2 http://security.ubuntu.com/ubuntu xenial-security InRelease [109 kB]
+0% [Oczekiwanie na nagłówki] [2 InRelease 5161 B/109 kB 5%]0% [1 InRelease gpgv 247 kB] [Oczekiwanie na nagłówki] [2 InRelease 5161 B/10                                                                               Stary:3 http://archive.ubuntu.com/ubuntu xenial-updates InRelease
+                                                                               0% [1 InRelease gpgv 247 kB] [2 InRelease 16,1 kB/109 kB 15%]                                                             0% [2 InRelease 38,0 kB/109 kB 35%]0% [3 InRelease gpgv 109 kB] [2 InRelease 38,0 kB/109 kB 35%]                                                             0% [2 InRelease 83,1 kB/109 kB 76%]                                   0% [Pracuje]0% [2 InRelease gpgv 109 kB]                            0% [Pracuje]            Stary:4 https://packages.microsoft.com/repos/vscode stable InRelease
+97% [Pracuje]97% [4 InRelease gpgv 3182 B]                             100% [Pracuje]              Pobrano 109 kB w 0s (369 kB/s)
+Czytanie list pakietów... 0%Czytanie list pakietów... 0%Czytanie list pakietów... 1%Czytanie list pakietów... 6%Czytanie list pakietów... 6%Czytanie list pakietów... 7%Czytanie list pakietów... 7%Czytanie list pakietów... 10%Czytanie list pakietów... 10%Czytanie list pakietów... 10%Czytanie list pakietów... 10%Czytanie list pakietów... 10%Czytanie list pakietów... 10%Czytanie list pakietów... 10%Czytanie list pakietów... 10%Czytanie list pakietów... 46%Czytanie list pakietów... 46%Czytanie list pakietów... 48%Czytanie list pakietów... 48%Czytanie list pakietów... 68%Czytanie list pakietów... 68%Czytanie list pakietów... 69%Czytanie list pakietów... 69%Czytanie list pakietów... 69%Czytanie list pakietów... 69%Czytanie list pakietów... 69%Czytanie list pakietów... 69%Czytanie list pakietów... 73%Czytanie list pakietów... 73%Czytanie list pakietów... 77%Czytanie list pakietów... 77%Czytanie list pakietów... 77%Czytanie list pakietów... 77%Czytanie list pakietów... 77%Czytanie list pakietów... 77%Czytanie list pakietów... 79%Czytanie list pakietów... 79%Czytanie list pakietów... 81%Czytanie list pakietów... 81%Czytanie list pakietów... 81%Czytanie list pakietów... 81%Czytanie list pakietów... 81%Czytanie list pakietów... 81%Czytanie list pakietów... 83%Czytanie list pakietów... 86%Czytanie list pakietów... 86%Czytanie list pakietów... 91%Czytanie list pakietów... 91%Czytanie list pakietów... 91%Czytanie list pakietów... 91%Czytanie list pakietów... 91%Czytanie list pakietów... 91%Czytanie list pakietów... 95%Czytanie list pakietów... 95%Czytanie list pakietów... 97%Czytanie list pakietów... 97%Czytanie list pakietów... 97%Czytanie list pakietów... 97%Czytanie list pakietów... 97%Czytanie list pakietów... 97%Czytanie list pakietów... 98%Czytanie list pakietów... 98%Czytanie list pakietów... Gotowe
+Czytanie list pakietów... 0%Czytanie list pakietów... 100%Czytanie list pakietów... Gotowe
+Budowanie drzewa zależności... 0%Budowanie drzewa zależności... 0%Budowanie drzewa zależności... 50%Budowanie drzewa zależności... 50%Budowanie drzewa zależności       
+Odczyt informacji o stanie... 0%Odczyt informacji o stanie... 0%Odczyt informacji o stanie... Gotowe
+The following additional packages will be installed:
+  dkms libgsoap8 libqt5x11extras5 libvncserver1 virtualbox-dkms virtualbox-qt
+Sugerowane pakiety:
+  vde2 virtualbox-guest-additions-iso
+Zostaną zainstalowane następujące NOWE pakiety:
+  dkms libgsoap8 libqt5x11extras5 libvncserver1 virtualbox virtualbox-dkms
+  virtualbox-ext-pack virtualbox-qt
+0 aktualizowanych, 8 nowo instalowanych, 0 usuwanych i 985 nieaktualizowanych.
+Konieczne pobranie 24,4 MB archiwów.
+Po tej operacji zostanie dodatkowo użyte 107 MB miejsca na dysku.
+0% [Pracuje]            Pobieranie:1 http://security.ubuntu.com/ubuntu xenial-security/main amd64 libvncserver1 amd64 0.9.10+dfsg-3ubuntu0.16.04.3 [122 kB]
+0% [Oczekiwanie na nagłówki] [1 libvncserver1 2323 B/122 kB 2%]                                                                 Pobieranie:2 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 dkms all 2.2.0.3-2ubuntu11.6 [66,3 kB]
+                                                                 0% [2 dkms 2294 B/66,3 kB 3%] [1 libvncserver1 2323 B/122 kB 2%]                                                                3% [1 libvncserver1 66,7 kB/122 kB 55%]                                       6% [Oczekiwanie na nagłówki]                              Pobieranie:3 http://archive.ubuntu.com/ubuntu xenial-updates/multiverse amd64 virtualbox-dkms all 5.1.38-dfsg-0ubuntu1.16.04.3 [651 kB]
+6% [3 virtualbox-dkms 2293 B/651 kB 0%]                                       10% [Oczekiwanie na nagłówki]                               Pobieranie:4 http://archive.ubuntu.com/ubuntu xenial/universe amd64 libgsoap8 amd64 2.8.28-1 [216 kB]
+10% [4 libgsoap8 4228 B/216 kB 2%]                                  13% [Oczekiwanie na nagłówki]                               Pobieranie:5 http://archive.ubuntu.com/ubuntu xenial-updates/multiverse amd64 virtualbox amd64 5.1.38-dfsg-0ubuntu1.16.04.3 [15,8 MB]
+13% [5 virtualbox 8250 B/15,8 MB 0%]63% [5 virtualbox 15,0 MB/15,8 MB 95%]                                      68% [Oczekiwanie na nagłówki]                               Pobieranie:6 http://archive.ubuntu.com/ubuntu xenial-updates/multiverse amd64 virtualbox-ext-pack all 5.1.38-0ubuntu1.16.04.1 [11,9 kB]
+68% [6 virtualbox-ext-pack 11,9 kB/11,9 kB 100%]                                                70% [Pracuje]             Pobieranie:7 http://archive.ubuntu.com/ubuntu xenial/universe amd64 libqt5x11extras5 amd64 5.5.1-3build1 [7876 B]
+70% [7 libqt5x11extras5 7876 B/7876 B 100%]                                           73% [Oczekiwanie na nagłówki]                               Pobieranie:8 http://archive.ubuntu.com/ubuntu xenial-updates/multiverse amd64 virtualbox-qt amd64 5.1.38-dfsg-0ubuntu1.16.04.3 [7517 kB]
+73% [8 virtualbox-qt 51,3 kB/7517 kB 1%]                                        100% [Pracuje]              Pobrano 24,4 MB w 1s (21,4 MB/s)
+Prekonfiguracja pakietów ...
+Wybieranie wcześniej niewybranego pakietu dkms.
+(Odczytywanie bazy danych ... (Odczytywanie bazy danych ... 5%(Odczytywanie bazy danych ... 10%(Odczytywanie bazy danych ... 15%(Odczytywanie bazy danych ... 20%(Odczytywanie bazy danych ... 25%(Odczytywanie bazy danych ... 30%(Odczytywanie bazy danych ... 35%(Odczytywanie bazy danych ... 40%(Odczytywanie bazy danych ... 45%(Odczytywanie bazy danych ... 50%(Odczytywanie bazy danych ... 55%(Odczytywanie bazy danych ... 60%(Odczytywanie bazy danych ... 65%(Odczytywanie bazy danych ... 70%(Odczytywanie bazy danych ... 75%(Odczytywanie bazy danych ... 80%(Odczytywanie bazy danych ... 85%(Odczytywanie bazy danych ... 90%(Odczytywanie bazy danych ... 95%(Odczytywanie bazy danych ... 100%(Odczytywanie bazy danych ... 219999 plików i katalogów obecnie zainstalowanych.)
+Przygotowywanie do rozpakowania pakietu .../dkms_2.2.0.3-2ubuntu11.6_all.deb ...
+Rozpakowywanie pakietu dkms (2.2.0.3-2ubuntu11.6) ...
+Wybieranie wcześniej niewybranego pakietu virtualbox-dkms.
+Przygotowywanie do rozpakowania pakietu .../virtualbox-dkms_5.1.38-dfsg-0ubuntu1.16.04.3_all.deb ...
+Rozpakowywanie pakietu virtualbox-dkms (5.1.38-dfsg-0ubuntu1.16.04.3) ...
+Wybieranie wcześniej niewybranego pakietu libgsoap8:amd64.
+Przygotowywanie do rozpakowania pakietu .../libgsoap8_2.8.28-1_amd64.deb ...
+Rozpakowywanie pakietu libgsoap8:amd64 (2.8.28-1) ...
+Wybieranie wcześniej niewybranego pakietu libvncserver1:amd64.
+Przygotowywanie do rozpakowania pakietu .../libvncserver1_0.9.10+dfsg-3ubuntu0.16.04.3_amd64.deb ...
+Rozpakowywanie pakietu libvncserver1:amd64 (0.9.10+dfsg-3ubuntu0.16.04.3) ...
+Wybieranie wcześniej niewybranego pakietu virtualbox.
+Przygotowywanie do rozpakowania pakietu .../virtualbox_5.1.38-dfsg-0ubuntu1.16.04.3_amd64.deb ...
+Rozpakowywanie pakietu virtualbox (5.1.38-dfsg-0ubuntu1.16.04.3) ...
+Wybieranie wcześniej niewybranego pakietu virtualbox-ext-pack.
+Przygotowywanie do rozpakowania pakietu .../virtualbox-ext-pack_5.1.38-0ubuntu1.16.04.1_all.deb ...
+License has already been accepted.
+Rozpakowywanie pakietu virtualbox-ext-pack (5.1.38-0ubuntu1.16.04.1) ...
+Wybieranie wcześniej niewybranego pakietu libqt5x11extras5:amd64.
+Przygotowywanie do rozpakowania pakietu .../libqt5x11extras5_5.5.1-3build1_amd64.deb ...
+Rozpakowywanie pakietu libqt5x11extras5:amd64 (5.5.1-3build1) ...
+Wybieranie wcześniej niewybranego pakietu virtualbox-qt.
+Przygotowywanie do rozpakowania pakietu .../virtualbox-qt_5.1.38-dfsg-0ubuntu1.16.04.3_amd64.deb ...
+Rozpakowywanie pakietu virtualbox-qt (5.1.38-dfsg-0ubuntu1.16.04.3) ...
+Przetwarzanie wyzwalaczy pakietu man-db (2.7.5-1)...
+Przetwarzanie wyzwalaczy pakietu libc-bin (2.21-0ubuntu6)...
+Przetwarzanie wyzwalaczy pakietu ureadahead (0.100.0-19)...
+Przetwarzanie wyzwalaczy pakietu systemd (229-2ubuntu1)...
+Przetwarzanie wyzwalaczy pakietu shared-mime-info (1.5-2)...
+Przetwarzanie wyzwalaczy pakietu hicolor-icon-theme (0.15-0ubuntu1)...
+Przetwarzanie wyzwalaczy pakietu desktop-file-utils (0.22-1ubuntu4)...
+Przetwarzanie wyzwalaczy pakietu gnome-menus (3.13.3-6ubuntu3)...
+Przetwarzanie wyzwalaczy pakietu bamfdaemon (0.5.2~bzr0+16.04.20151217-0ubuntu1)...
+Rebuilding /usr/share/applications/bamf-2.index...
+Przetwarzanie wyzwalaczy pakietu mime-support (3.59ubuntu1)...
+Konfigurowanie pakietu dkms (2.2.0.3-2ubuntu11.6) ...
+Konfigurowanie pakietu virtualbox-dkms (5.1.38-dfsg-0ubuntu1.16.04.3) ...
+Loading new virtualbox-5.1.38 DKMS files...
+First Installation: checking all kernels...
+Building only for 4.4.0-14-generic
+Building initial module for 4.4.0-14-generic
+Done.
+
+vboxdrv:
+Running module version sanity check.
+ - Original module
+   - No original module exists within this kernel
+ - Installation
+   - Installing to /lib/modules/4.4.0-14-generic/updates/dkms/
+
+vboxnetadp.ko:
+Running module version sanity check.
+ - Original module
+   - No original module exists within this kernel
+ - Installation
+   - Installing to /lib/modules/4.4.0-14-generic/updates/dkms/
+
+vboxnetflt.ko:
+Running module version sanity check.
+ - Original module
+   - No original module exists within this kernel
+ - Installation
+   - Installing to /lib/modules/4.4.0-14-generic/updates/dkms/
+
+vboxpci.ko:
+Running module version sanity check.
+ - Original module
+   - No original module exists within this kernel
+ - Installation
+   - Installing to /lib/modules/4.4.0-14-generic/updates/dkms/
+
+depmod......
+
+DKMS: install completed.
+Konfigurowanie pakietu libgsoap8:amd64 (2.8.28-1) ...
+Konfigurowanie pakietu libvncserver1:amd64 (0.9.10+dfsg-3ubuntu0.16.04.3) ...
+Konfigurowanie pakietu virtualbox (5.1.38-dfsg-0ubuntu1.16.04.3) ...
+vboxweb.service is a disabled or a static unit, not starting it.
+Konfigurowanie pakietu virtualbox-ext-pack (5.1.38-0ubuntu1.16.04.1) ...
+removing old virtualbox extension packs
+virtualbox-ext-pack: downloading: http://download.virtualbox.org/virtualbox/5.1.38/Oracle_VM_VirtualBox_Extension_Pack-5.1.38.vbox-extpack
+The file will be downloaded into /usr/share/virtualbox-ext-pack
+License accepted.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+Successfully installed "Oracle VM VirtualBox Extension Pack".
+Konfigurowanie pakietu libqt5x11extras5:amd64 (5.5.1-3build1) ...
+Konfigurowanie pakietu virtualbox-qt (5.1.38-dfsg-0ubuntu1.16.04.3) ...
+Przetwarzanie wyzwalaczy pakietu libc-bin (2.21-0ubuntu6)...
+Przetwarzanie wyzwalaczy pakietu ureadahead (0.100.0-19)...
+Przetwarzanie wyzwalaczy pakietu systemd (229-2ubuntu1)...
+[1m[7m%[27m[1m[0m                                                                                ]2;dabrowk1@s9: ~]1;~[0m[27m[24m[J[01;32m➜  [36m~[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls --color=tty]1;ls[0m[01;34mbin[0m            [01;34mmaterialy_do_sprawozdan[0m  [01;34mPobrane[0m    [01;34mVirtualBox VMs[0m
+[01;34mDokumenty[0m      microsoft.gpg            [01;34mPubliczny[0m  [01;34mWideo[0m
+histroriaC2    [01;34mMuzyka[0m                   [01;34mPulpit[0m     [01;34mWINDOWS[0m
+[01;34mkreacjaMaszyn[0m  notatki_c2_1.04.19.md    [01;34mSzablony[0m
+[01;34mlabsk[0m          [01;34mObrazy[0m                   text.txt
+[1m[7m%[27m[1m[0m                                                                                ]2;dabrowk1@s9: ~]1;~[0m[27m[24m[J[01;32m➜  [36m~[00m [K[?1h=[?2004hccd c  lls in   bin[?1l>[?2004l
+]2;ls --color=tty bin]1;ls[0m[01;32mc2[0m          [01;32minstall-VSCode[0m    microsoft.gpg      [01;32mxauth-export[0m
+[01;32minstall_vb[0m  [01;32mlist-stations-ip[0m  [01;32mping-all-stations[0m
+[1m[7m%[27m[1m[0m                                                                                ]2;dabrowk1@s9: ~]1;~[0m[27m[24m[J[01;32m➜  [36m~[00m [K[?1h=[?2004hccode c2notatki_c2_1.04.19.md[1m [0m[0m                      /bin[1m/[0m[0m/c2[?1l>[?2004l
+]2;code /bin/c2]1;code[1m[7m%[27m[1m[0m                                                                                ]2;dabrowk1@s9: ~]1;~[0m[27m[24m[J[01;32m➜  [36m~[00m [K[?1h=[?2004hccd bin[1m/[0m[0m [?1l>[?2004l
+]2;cd bin]1;cd[1m[7m%[27m[1m[0m                                                                                ]2;dabrowk1@s9: ~/bin]1;~/bin[0m[27m[24m[J[01;32m➜  [36mbin[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls --color=tty]1;ls[0m[01;32mc2[0m          [01;32minstall-VSCode[0m    microsoft.gpg      [01;32mxauth-export[0m
+[01;32minstall_vb[0m  [01;32mlist-stations-ip[0m  [01;32mping-all-stations[0m
+[1m[7m%[27m[1m[0m                                                                                ]2;dabrowk1@s9: ~/bin]1;~/bin[0m[27m[24m[J[01;32m➜  [36mbin[00m [K[?1h=[?2004hccat c2[?1l>[?2004l
+]2;cat c2]1;cat#!/bin/sh
+
+#Tworzenie maszyn
+#Vm1
+VM=Vm1
+VBoxManage createvm --name $VM --ostype "Debian_64" --register
+
+# Dodanie kontrolera płyt
+#VBoxManage storagectl $VM --name "IDE Controller" --add ide
+
+#Ustawienei kolejności bootowania
+VBoxManage modifyvm $VM --boot1 net --boot2 disk --boot3 dvd --boot4 none
+
+#Ustawnienie ramu i rdzeni procesora
+VBoxManage modifyvm $VM --memory 1024 --vram 128 --cpus 2
+
+#Ustawienie kontrolera sieci
+VBoxManage modifyvm $VM --nic1 bridged --bridgeadapter1 eno2
+
+##Dodanie do sieci wewnetrznej
+#VBoxManage modifyvm $VM --intnet2 "siec1"
+VBoxManage modifyvm $VM --nic2 intnet
+
+#Druga maszyna
+#Vm2
+VM=Vm2
+VBoxManage createvm --name $VM --ostype "Debian_64" --register
+
+# Dodanie kontrolera płyt
+#VBoxManage storagectl $VM --name "IDE Controller" --add ide
+
+#Ustawienei kolejności bootowania
+VBoxManage modifyvm $VM --boot1 net --boot2 disk --boot3 dvd --boot4 none
+
+#Ustawnienie ramu i rdzeni procesora
+VBoxManage modifyvm $VM --memory 1024 --vram 128 --cpus 2
+
+#Ustawienie kontrolera sieci
+VBoxManage modifyvm $VM --nic1 bridged --bridgeadapter1 eno2
+
+##Dodanie do sieci wewnetrznej
+#VBoxManage modifyvm $VM --intnet2 "siec1"
+VBoxManage modifyvm $VM --nic2 intnet
+[1m[7m%[27m[1m[0m                                                                                ]2;dabrowk1@s9: ~/bin]1;~/bin[0m[27m[24m[J[01;32m➜  [36mbin[00m [K[?1h=[?2004hq ccode c2[?1l>[?2004l
+]2;code c2]1;code[1m[7m%[27m[1m[0m                                                                                ]2;dabrowk1@s9: ~/bin]1;~/bin[0m[27m[24m[J[01;32m➜  [36mbin[00m [K[?1h=[?2004h[H[2J[0m[27m[24m[J[01;32m➜  [36mbin[00m [Kccd .[?1l>[?2004l
+]2;cd .]1;cd[1m[7m%[27m[1m[0m                                                                                ]2;dabrowk1@s9: ~/bin]1;~/bin[0m[27m[24m[J[01;32m➜  [36mbin[00m [K[?1h=[?2004hcd ..[?1l>[?2004l
+]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                                                ]2;dabrowk1@s9: ~]1;~[0m[27m[24m[J[01;32m➜  [36m~[00m [K[?1h=[?2004hiipi ifi  iip a[?1l>[?2004l
+]2;ip a]1;ip1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: eno2: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP group default qlen 1000
+    link/ether e8:40:f2:ec:6f:15 brd ff:ff:ff:ff:ff:ff
+    inet 10.146.225.9/16 brd 10.146.255.255 scope global eno2
+       valid_lft forever preferred_lft forever
+    inet6 fe80::ea40:f2ff:feec:6f15/64 scope link 
+       valid_lft forever preferred_lft forever
+3: eno1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP group default qlen 1000
+    link/ether e8:40:f2:ec:6f:16 brd ff:ff:ff:ff:ff:ff
+    inet6 fe80::ea40:f2ff:feec:6f16/64 scope link 
+       valid_lft forever preferred_lft forever
+4: wlp2s0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc mq state DOWN group default qlen 1000
+    link/ether 00:24:d7:84:a5:1c brd ff:ff:ff:ff:ff:ff
+[1m[7m%[27m[1m[0m                                                                                ]2;dabrowk1@s9: ~]1;~[0m[27m[24m[J[01;32m➜  [36m~[00m [K[?1h=[?2004h[H[2J[0m[27m[24m[J[01;32m➜  [36m~[00m [Kiifconfig[1m [0m[0m [?1l>[?2004l
+]2;ifconfig]1;ifconfigeno1      Link encap:Ethernet  HWaddr e8:40:f2:ec:6f:16  
+          inet6 addr: fe80::ea40:f2ff:feec:6f16/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:109182 errors:0 dropped:1107 overruns:0 frame:0
+          TX packets:50 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:8484005 (8.4 MB)  TX bytes:15929 (15.9 KB)
+          Interrupt:18 Memory:f7c00000-f7c20000 
+
+eno2      Link encap:Ethernet  HWaddr e8:40:f2:ec:6f:15  
+          inet addr:10.146.225.9  Bcast:10.146.255.255  Mask:255.255.0.0
+          inet6 addr: fe80::ea40:f2ff:feec:6f15/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:1263148 errors:0 dropped:1117 overruns:0 frame:0
+          TX packets:263237 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:1649239661 (1.6 GB)  TX bytes:91944128 (91.9 MB)
+          Interrupt:20 Memory:f7e00000-f7e20000 
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:28 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:28 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1 
+          RX bytes:1661 (1.6 KB)  TX bytes:1661 (1.6 KB)
+
+wlp2s0    Link encap:Ethernet  HWaddr 00:24:d7:84:a5:1c  
+          UP BROADCAST MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+
+[1m[7m%[27m[1m[0m                                                                                ]2;dabrowk1@s9: ~]1;~[0m[27m[24m[J[01;32m➜  [36m~[00m [K[?1h=[?2004h[H[2J[0m[27m[24m[J[01;32m➜  [36m~[00m [Kccd c  lls bin[1m/[0m[0m [?1l>[?2004l
+]2;ls --color=tty bin]1;ls[0m[01;32mc2[0m          [01;32minstall-VSCode[0m    microsoft.gpg      [01;32mxauth-export[0m
+[01;32minstall_vb[0m  [01;32mlist-stations-ip[0m  [01;32mping-all-stations[0m
+[1m[7m%[27m[1m[0m                                                                                ]2;dabrowk1@s9: ~]1;~[0m[27m[24m[J[01;32m➜  [36m~[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls --color=tty]1;ls[0m[01;34mbin[0m            [01;34mmaterialy_do_sprawozdan[0m  [01;34mPobrane[0m    [01;34mVirtualBox VMs[0m
+[01;34mDokumenty[0m      microsoft.gpg            [01;34mPubliczny[0m  [01;34mWideo[0m
+histroriaC2    [01;34mMuzyka[0m                   [01;34mPulpit[0m     [01;34mWINDOWS[0m
+[01;34mkreacjaMaszyn[0m  notatki_c2_1.04.19.md    [01;34mSzablony[0m
+[01;34mlabsk[0m          [01;34mObrazy[0m                   text.txt
+[1m[7m%[27m[1m[0m                                                                                ]2;dabrowk1@s9: ~]1;~[0m[27m[24m[J[01;32m➜  [36m~[00m [K[?1h=[?2004hccd kreacjaMaszyn[1m/[0m[0m [?1l>[?2004l
+]2;cd kreacjaMaszyn]1;cd[1m[7m%[27m[1m[0m                                                                                ]2;dabrowk1@s9: ~/kreacjaMaszyn]1;~/kreacjaMaszyn[0m[27m[24m[J[01;32m➜  [36mkreacjaMaszyn[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls --color=tty]1;ls[0m[01;32mTworzenie maszyny Bhyve.txt[0m    [01;32mTworzenie maszyny Vbox.txt[0m
+[01;32mTworzenie maszyny Hyper-V.txt[0m  [01;32mTworzenie maszyny VMWare.txt[0m
+[01;32mTworzenie maszyny KVM.txt[0m
+[1m[7m%[27m[1m[0m                                                                                ]2;dabrowk1@s9: ~/kreacjaMaszyn]1;~/kreacjaMaszyn[0m[27m[24m[J[01;32m➜  [36mkreacjaMaszyn[00m [K[?1h=[?2004hccat twoT[2Crzenie\ maszyny\ vV
+[J[01;32mTworzenie\ maszyny\ Vbox.txt[0m*    [J[01;32mTworzenie\ maszyny\ VMWare.txt[0m*[J[A[0m[27m[24m[17Ccat Tworzenie\ maszyny\ V[Kbox.txt[1m [0m[0m|  | [1C[1C c o d e [1C - [?1l>[?2004l
+[J]2;cat Tworzenie\ maszyny\ Vbox.txt | code -]1;cat[1m[7m%[27m[1m[0m                                                                                ]2;dabrowk1@s9: ~/kreacjaMaszyn]1;~/kreacjaMaszyn[0m[27m[24m[J[01;32m➜  [36mkreacjaMaszyn[00m [K[?1h=[?2004hccd ..[?1l>[?2004l
+]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                                                ]2;dabrowk1@s9: ~]1;~[0m[27m[24m[J[01;32m➜  [36m~[00m [K[?1h=[?2004hcc2[?1l>[?2004l
+]2;c2]1;c2VBoxManage: error: Machine settings file '/home/stud/dabrowk1/VirtualBox VMs/Vm2/Vm2.vbox' already exists
+VBoxManage: error: Details: code VBOX_E_FILE_ERROR (0x80bb0004), component MachineWrap, interface IMachine, callee nsISupports
+VBoxManage: error: Context: "CreateMachine(bstrSettingsFile.raw(), bstrName.raw(), ComSafeArrayAsInParam(groups), bstrOsTypeId.raw(), createFlags.raw(), machine.asOutParam())" at line 273 of file VBoxManageMisc.cpp
+[1m[7m%[27m[1m[0m                                                                                ]2;dabrowk1@s9: ~]1;~[0m[27m[24m[J[01;32m➜  [36m~[00m [K[?1h=[?2004hc2[?1l>[?2004l
+]2;c2]1;c2Virtual machine 'Vm2' is created and registered.
+UUID: 56890acf-a88e-401f-81fe-a2abccc5cbe8
+Settings file: '/home/stud/dabrowk1/VirtualBox VMs/Vm2/Vm2.vbox'
+[1m[7m%[27m[1m[0m                                                                                ]2;dabrowk1@s9: ~]1;~[0m[27m[24m[J[01;32m➜  [36m~[00m [K[?1h=[?2004hcc2[?1l>[?2004l
+]2;c2]1;c2Virtual machine 'Vm2' is created and registered.
+UUID: ab2ab1a0-7f5b-4a46-92c5-d0a8ffcd41c5
+Settings file: '/home/stud/dabrowk1/VirtualBox VMs/Vm2/Vm2.vbox'
+[1m[7m%[27m[1m[0m                                                                                ]2;dabrowk1@s9: ~]1;~[0m[27m[24m[J[01;32m➜  [36m~[00m [K[?1h=[?2004h[?2004l
+
+Script done on pon, 1 kwi 2019, 18:02:12

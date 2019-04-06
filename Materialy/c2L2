@@ -1,0 +1,22 @@
+#!/bin/sh
+
+#Tworzenie maszyn
+#Vm1
+VM=Vm2
+
+VBoxManage.exe unregistervm $VM --delete
+
+VBoxManage.exe createvm --name $VM --ostype "FreeBSD_64" --register
+
+# Dodanie kontrolera płyt
+#VBoxManage.exe storagectl $VM --name "IDE Controller" --add ide
+
+#Ustawienei kolejności bootowania
+VBoxManage.exe modifyvm $VM --boot1 net --boot2 disk --boot3 dvd --boot4 none
+
+#Ustawnienie ramu i rdzeni procesora
+VBoxManage.exe modifyvm $VM --memory 4096 --vram 128 --cpus 2
+
+#Ustawienie kontrolera sieci do wolnego interfejsu
+VBoxManage.exe modifyvm $VM --nic1 bridged --bridgeadapter1 eno1
+
