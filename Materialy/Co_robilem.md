@@ -14,6 +14,8 @@ Utworzyłem maszynę w domu na Widowsie. Dzięki temu, że połączenie jest mos
 Po odpaleniu maszyna nie miała przypisanego adresu ip.
 By to zmienić pobrałem adres ip od serwera dhcp poleceniem `dhclient em0`
 W celu podłączenie się ssh trzeba zmienić ustawienia systemu.
+Trzeba wygenerować klucze poleceniem `ssh-keygen -A` oraz dodać do pliku /etc/rc.conf linię sshd_enable="YES"  
+Wtedy możliwe jest uruchomienie demona ssh poleceniem `service sshd restart`
 
 ## Tworzenie sieci
 Polecenie `ifconfig bridge create` utworzyło wirtualny mostek o nazwie bridge0.  
