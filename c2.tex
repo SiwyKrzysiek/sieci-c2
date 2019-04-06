@@ -48,10 +48,17 @@ W celu automatyzacji tworzenia maszyn wirtualnych napisałem prosty skrypt konfi
 Możliwe było również wyszukanie \textbf{gotowego skryptu} i modyfikacja go do własnych potrzeb. W tym celu można było skorzystać z programu \texttt{grep}. \\
 Przykład wyszukania skryptów związanych z Virtual Box: \texttt{grep -iRl "VboxManage" /usr/local/zetis/bin}
 
+\newpage
 \section{Drugie zajęcia}
 Celem drugich zajęć było wygenerowanie pojedynczej wirtualnej maszyny oraz konfiguracja wirtualnych interfejsów sieciowych wewnątrz tej maszyny.
 
 \subsection{Schemat struktury sieci}
+\begin{figure}[H]
+  \includegraphics[width=0.90\textwidth]{schemat2}
+  \centering
+  \caption{Schemat sieci do wykreowania}
+  \label{fig:schemat}
+\end{figure}
 
 \subsection{Generacja maszyny}
 Do utworzenia maszyny zmodyfikowałem wcześniejszy skrypt. Na potrzeby aktualnego zadania skrypt tworzy teraz tylko jedną maszynę typu FreeBSD\_64 z jednym interesem mostkowym.
@@ -59,7 +66,7 @@ Do utworzenia maszyny zmodyfikowałem wcześniejszy skrypt. Na potrzeby aktualne
 \subsection{Konfiguracja sieci}
 Dalszą część zadań laboratoryjnych kontynuowałem na w domu. Przy pomocy skryptu z zajęć utworzyłem maszynę oraz pobrałem obraz systemu FreeBSD i zainstalowałem go.
 
-\subsubsection{Logowanie zdalne ssh}
+\subsection{Logowanie zdalne ssh}
 Chciałem dostać się do maszyny przez terminal gospodarza. W tym celu chciałem wykorzystać protokół ssh.
 
 Przy pomocy polecenia \texttt{ifconfig} zobaczyłem, że interfejs maszyny nie dostał adresu ip automatycznie.
