@@ -1,0 +1,9 @@
+#!bin/sh
+ifconfig bridge create
+ifconfig bridge0 addm em0
+
+fconfig epair create
+fconfig epair create
+
+ifconfig bridge0 addm epair0a
+ifconfig bridge0 addm epair1a
